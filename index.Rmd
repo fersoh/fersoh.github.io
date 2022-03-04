@@ -1,0 +1,24 @@
+---
+title: Fernando Sóstenes Hernández
+author: 
+date: 
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+
+![](frsh.jpg){width="203"}
+
+## **Fer Sóstenes**
+
+*Estudiante*
+
+**Facultad de Economía, UNAM**
+
+CDMX/Estado de México
+
+</center>
